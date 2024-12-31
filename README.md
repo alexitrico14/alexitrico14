@@ -1,29 +1,31 @@
-# 🖖 there, I'm a frontend developer
+# 🙌 About Me:
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexitrico14&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+🔹 Soy Alex Villagrán, un desarrollador Front-End con experiencia en **diseño web**, **edición de videos** y **atención al cliente**.  
+🔹 Me encanta trabajar en equipo y construir soluciones tecnológicas innovadoras con herramientas modernas.  
+🔹 Actualmente, me especializo en **Vue.js**, **JavaScript**, **HTML**, **CSS**, y **Bootstrap**.
 
-# :man_technologist: Knowledges
+🎯 **Objetivo**: Seguir creciendo profesionalmente en el mundo de la tecnología, contribuyendo a equipos innovadores.
 
-## Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+---
 
-## Frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-villagr%C3%A1n-a8b8b7338)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/alexitrico14)
 
-## Deploy
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+---
 
-## CMS
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+# 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  
 
-## Editors
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+---
+
+# ✨ Projects:
+- [PokeDex App](https://github.com/alexitrico14/PokeDex-App): Aplicación web desarrollada con Vue 3 y Vite que permite buscar y visualizar información detallada de Pokémon, utilizando datos de la PokéAPI.
+- [App Médica](https://github.com/alexitrico14/App-Medica): Sistema interactivo desarrollado con Vue para gestionar eventos DOM.
